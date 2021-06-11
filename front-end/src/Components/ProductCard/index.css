@@ -1,0 +1,38 @@
+.product-card {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+  padding: 2rem;
+  width: 16rem;
+}
+.plus-and-minus-container {
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+}
+.beverage-img {
+  margin-top: 10px;
+  width: 200px;
+}
+.img-0 {
+  height: 200px;
+  width: 130px;
+}
+.price {
+  text-align: center;
+}
+.plus-and-minus-button {
+  font-weight: bolder;
+  border-radius: 50%;
+  width: 35px;
+}
+.button-link {
+  display: flex;
+  justify-content: center;
+}
+.cart-btn {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  align-self: center;
+}

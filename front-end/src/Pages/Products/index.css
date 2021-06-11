@@ -1,0 +1,21 @@
+.product-cards-container {
+  justify-content: space-around;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.button-link {
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+}
+
+.button-link span {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.cart-btn {
+  margin: 0;
+  width: 100%;
+}
